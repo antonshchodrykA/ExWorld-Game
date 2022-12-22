@@ -1,0 +1,31 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ConstructionSystemRuntime.cpp.obj": [
+			"ConstructionSystemCursor.cpp.obj",
+			"ConstructionSystemSnap.cpp.obj",
+			"ConstructionSystemBuildTool.cpp.obj",
+			"ConstructionSystemRemoveTool.cpp.obj",
+			"ConstructionSystemTool.cpp.obj",
+			"ConstructionSystemUI.cpp.obj",
+			"ConstructionSystemUIAsset.cpp.obj",
+			"ConstructionSystemComponent.cpp.obj",
+			"ConstructionSystemRuntimeModule.cpp.obj",
+			"ConstructionSystemSaveGame.cpp.obj",
+			"ConstructionSystemDefs.cpp.obj",
+			"ConstructionSystemUtils.cpp.obj"
+		],
+		"Module.ConstructionSystemRuntime.gen.cpp.obj": [
+			"ConstructionSystemBuildTool.gen.cpp.obj",
+			"ConstructionSystemComponent.gen.cpp.obj",
+			"ConstructionSystemCursor.gen.cpp.obj",
+			"ConstructionSystemRemoveTool.gen.cpp.obj",
+			"ConstructionSystemRuntime.init.gen.cpp.obj",
+			"ConstructionSystemSaveGame.gen.cpp.obj",
+			"ConstructionSystemSnap.gen.cpp.obj",
+			"ConstructionSystemTool.gen.cpp.obj",
+			"ConstructionSystemUI.gen.cpp.obj",
+			"ConstructionSystemUIAsset.gen.cpp.obj"
+		]
+	}
+}

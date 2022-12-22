@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ConstructionSystemRuntime-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEnginegd\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\zHouseStudios\Demotest\Demotest\Game\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\Module.ConstructionSystemRuntime.cpp.obj"
+"D:\zHouseStudios\Demotest\Demotest\Game\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\Module.ConstructionSystemRuntime.gen.cpp.obj"
+"C:\UnrealEnginegd\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\zHouseStudios\Demotest\Demotest\Game\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\ConstructionSystemRuntime\UE4Editor-ConstructionSystemRuntime-0010.lib"
+/INCLUDE:IMPLEMENT_MODULE_ConstructionSystemRuntime

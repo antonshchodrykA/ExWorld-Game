@@ -1,0 +1,26 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PrefabricatorEditor.cpp.obj": [
+			"PrefabricatorActorFactory.cpp.obj",
+			"PrefabricatorAssetFactory.cpp.obj",
+			"PrefabricatorAssetTypeActions.cpp.obj",
+			"PrefabricatorAssetThumbnailScene.cpp.obj",
+			"PrefabEditorCommands.cpp.obj",
+			"PrefabEditorStyle.cpp.obj",
+			"PrefabEditorTypes.cpp.obj",
+			"PrefabricatorEditorModule.cpp.obj",
+			"EditorUIExtender.cpp.obj",
+			"PrefabCustomization.cpp.obj",
+			"MapChangeHook.cpp.obj",
+			"PrefabEditorTools.cpp.obj",
+			"PrefabricatorEditorService.cpp.obj",
+			"SelectionHook.cpp.obj"
+		],
+		"Module.PrefabricatorEditor.gen.cpp.obj": [
+			"PrefabricatorActorFactory.gen.cpp.obj",
+			"PrefabricatorAssetFactory.gen.cpp.obj",
+			"PrefabricatorEditor.init.gen.cpp.obj"
+		]
+	}
+}

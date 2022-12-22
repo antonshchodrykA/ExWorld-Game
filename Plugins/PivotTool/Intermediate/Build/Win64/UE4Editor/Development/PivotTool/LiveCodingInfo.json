@@ -1,0 +1,30 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PivotTool.cpp.obj": [
+			"PivotToolActorCustomization.cpp.obj",
+			"PivotToolEdMode.cpp.obj",
+			"PivotToolEdModeToolkit.cpp.obj",
+			"PivotToolSettings.cpp.obj",
+			"PivotToolUISetting.cpp.obj",
+			"PivotToolUISettingCustomization.cpp.obj",
+			"SPivotToolEditor.cpp.obj",
+			"PivotTool.cpp.obj",
+			"PivotToolCommands.cpp.obj",
+			"PivotToolStyle.cpp.obj",
+			"PivotToolUtil.cpp.obj",
+			"SAlphaButton.cpp.obj",
+			"SPivotAlign.cpp.obj",
+			"SPivotPreset.cpp.obj",
+			"SPivotToolWidget.cpp.obj"
+		],
+		"Module.PivotTool.gen.cpp.obj": [
+			"PivotTool.init.gen.cpp.obj",
+			"PivotToolSettings.gen.cpp.obj",
+			"PivotToolUISetting.gen.cpp.obj",
+			"PivotToolUtil.gen.cpp.obj",
+			"SPivotAlign.gen.cpp.obj",
+			"SPivotPreset.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SnapSystem.cpp.obj": [
+			"CopyPasteSockets.cpp.obj",
+			"ExportImportSockets.cpp.obj",
+			"MSSModeEdMode.cpp.obj",
+			"MSSModeEdModeToolkit.cpp.obj",
+			"SMSSViewportToolBarComboMenu.cpp.obj",
+			"SnapSystem.cpp.obj",
+			"SnapSystemCommands.cpp.obj",
+			"SnapSystemStyle.cpp.obj",
+			"USnapSystemSettings.cpp.obj"
+		],
+		"Module.SnapSystem.gen.cpp.obj": [
+			"CopyPasteSockets.gen.cpp.obj",
+			"ExportImportSockets.gen.cpp.obj",
+			"SnapSystem.init.gen.cpp.obj",
+			"USnapSystemSettings.gen.cpp.obj"
+		]
+	}
+}

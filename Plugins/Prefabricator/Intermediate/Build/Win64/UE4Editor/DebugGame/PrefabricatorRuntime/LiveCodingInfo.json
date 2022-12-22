@@ -1,0 +1,32 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PrefabricatorRuntime.cpp.obj": [
+			"PrefabricatorAsset.cpp.obj",
+			"PrefabricatorAssetUserData.cpp.obj",
+			"PrefabActor.cpp.obj",
+			"PrefabComponent.cpp.obj",
+			"PrefabTools.cpp.obj",
+			"PrefabRandomizerActor.cpp.obj",
+			"PrefabSeedLinker.cpp.obj",
+			"PrefabricatorRuntimeModule.cpp.obj",
+			"PrefabricatorSettings.cpp.obj",
+			"PrefabDebugActor.cpp.obj",
+			"PrefabricatorConstants.cpp.obj",
+			"PrefabricatorFunctionLibrary.cpp.obj",
+			"PrefabricatorService.cpp.obj"
+		],
+		"Module.PrefabricatorRuntime.gen.cpp.obj": [
+			"PrefabActor.gen.cpp.obj",
+			"PrefabComponent.gen.cpp.obj",
+			"PrefabDebugActor.gen.cpp.obj",
+			"PrefabRandomizerActor.gen.cpp.obj",
+			"PrefabricatorAsset.gen.cpp.obj",
+			"PrefabricatorAssetUserData.gen.cpp.obj",
+			"PrefabricatorFunctionLibrary.gen.cpp.obj",
+			"PrefabricatorRuntime.init.gen.cpp.obj",
+			"PrefabricatorSettings.gen.cpp.obj",
+			"PrefabSeedLinker.gen.cpp.obj"
+		]
+	}
+}

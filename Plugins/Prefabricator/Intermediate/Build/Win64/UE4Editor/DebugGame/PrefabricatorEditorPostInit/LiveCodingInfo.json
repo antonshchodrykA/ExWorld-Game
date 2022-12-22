@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PrefabricatorEditorPostInit.cpp.obj": [
+			"PrefabricatorEditorPostInitModule.cpp.obj",
+			"PrefabComponentVisualizer.cpp.obj",
+			"PrefabSeedLinkerVisualizer.cpp.obj"
+		]
+	}
+}

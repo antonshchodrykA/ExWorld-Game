@@ -1,0 +1,11 @@
+{
+	"BuildId": "94ae36fa-eb6f-40c0-abc1-8012d2fc54c0",
+	"Modules": 
+	{
+		"ConstructionSystemEditor": "UE4Editor-ConstructionSystemEditor-Win64-DebugGame.dll",
+		"ConstructionSystemRuntime": "UE4Editor-ConstructionSystemRuntime-Win64-DebugGame.dll",
+		"PrefabricatorEditor": "UE4Editor-PrefabricatorEditor-Win64-DebugGame.dll",
+		"PrefabricatorEditorPostInit": "UE4Editor-PrefabricatorEditorPostInit-Win64-DebugGame.dll",
+		"PrefabricatorRuntime": "UE4Editor-PrefabricatorRuntime-Win64-DebugGame.dll"
+	}
+}

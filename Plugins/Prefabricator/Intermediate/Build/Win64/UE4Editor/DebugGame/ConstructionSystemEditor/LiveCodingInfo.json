@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ConstructionSystemEditor.cpp.obj": [
+			"ConstructionSystemEditorModule.cpp.obj",
+			"ProjectSettingsUpdater.cpp.obj"
+		]
+	}
+}

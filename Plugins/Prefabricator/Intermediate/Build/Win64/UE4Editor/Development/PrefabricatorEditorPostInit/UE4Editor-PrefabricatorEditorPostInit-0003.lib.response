@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PrefabricatorEditorPostInit-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEnginegd\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\zHouseStudios\Demotest\Demotest\Game\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorEditorPostInit\Module.PrefabricatorEditorPostInit.cpp.obj"
+"C:\UnrealEnginegd\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\zHouseStudios\Demotest\Demotest\Game\Plugins\Prefabricator\Intermediate\Build\Win64\UE4Editor\Development\PrefabricatorEditorPostInit\UE4Editor-PrefabricatorEditorPostInit-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_PrefabricatorEditorPostInit
